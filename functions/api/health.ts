@@ -1,4 +1,4 @@
-function fetch(request) {
+function fetch(request: Request): Response {
   return new Response("OK", { status: 200 });
 }
 
