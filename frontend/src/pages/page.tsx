@@ -1,6 +1,6 @@
 import React from "react";
 
-const MainPage = () => {
+const MainPage = (): React.ReactElement => {
   return <div>Hello world</div>;
 };
 
