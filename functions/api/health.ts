@@ -1,5 +1,3 @@
-const fetch: PagesFunction = (request) => {
+export const onRequestGet: PagesFunction = () => {
   return new Response("OK", { status: 200 });
 };
-
-export default { fetch };

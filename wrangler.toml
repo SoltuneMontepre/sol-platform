@@ -1,5 +1,4 @@
 name = "sol-platform"
-main = "functions/index.ts"
 compatibility_date = "2026-04-13"
 
 [assets]
